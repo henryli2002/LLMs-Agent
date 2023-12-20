@@ -11,4 +11,5 @@ o The best ones will be demonstrated in the last course
 o Don't copy from other projects!
 
 说明：Amadeus文件夹里包含全部的代码，其中history存储着《LLM教学助手说明》中进行的使用测试，其它详见《LLM教学助手说明》
+注意该脚本在限时停止服务的逻辑上有些问题，目前是5分钟后以后稳定关闭，输入并不能刷新计时，如果确实需要该功能，请手动更改逻辑
 
